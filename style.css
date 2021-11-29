@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body {background-color: lavender;}
+h1{font-family:'Oswald';color: rgb(5, 91, 141) }
+.title{color:blue;font-family:Libre Baskerville}
